@@ -21,7 +21,9 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
   },
-  "homepage": "https://dingdingdingliu.github.io/react-todolist",
+  {
+    "homepage": "https://dingdingdingliu.github.io/react-todolist",
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
